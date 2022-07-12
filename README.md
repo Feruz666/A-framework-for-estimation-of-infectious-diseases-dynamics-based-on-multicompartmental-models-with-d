@@ -1,1 +1,6 @@
 # A-framework-for-estimation-of-infectious-diseases-dynamics-based-on-multicompartmental-models-with-d
+
+##
+Infectious diseases - "a group of diseases caused by pathogenic microorganisms, characterized by contagiousness, the presence of an incubation period, the reactions of the infected organism to the pathogen and, as a rule, a cyclical course and the formation of post-infectious immunity.
+According to WHO statistics, infectious diseases are the 4th most common cause of death in the world. However, there is a certain correlation between the economic status of the country and the leading cause of death. Thus, in low- income countries 6 deaths out of 10 are caused by infectious diseases, while in high-income countries only upper respiratory tract infections are in the top ten of all infectious diseases, all because the prevention and treatment of such diseases requires significant material costs.
+This work focuses on developing a tool to help predict the behavior of a major new infectious disease, the new coronavirus infection COVID-19.
